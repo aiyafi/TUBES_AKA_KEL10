@@ -13,4 +13,7 @@ Untuk menjalankan program ini ada library Python yang perlu di install
 pip install tkinter
 ```
 
-Untuk menjalankan langsung programnya silahkan buka file .Exe
+Untuk menjalankan langsung programnya silahkan buka file .exe
+
+#### References
+[DennisLovesCoffe](https://github.com/DennisLovesCoffee/)
